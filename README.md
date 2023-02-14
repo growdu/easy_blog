@@ -1,2 +1,7 @@
-# easy_blog
-generate index written by markdown in github.生成markdown文章索引，使github仓库成为一个简易博客。
+# easy blog
+- [readme](./readme.md)
+
+## source
+- [easy_blog使用教程](./source/easy_blog使用教程.md)
+- [test](./source/test.md)
+- [test1](./source/test1.md)
